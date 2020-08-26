@@ -1,0 +1,12 @@
+.progress {
+    width: 200px;
+    height: 4px;
+    margin-bottom: 4px;
+    background-color: lightblue;
+}
+.inner-progress {
+    content: "";
+    height: 4px;
+    background-color: red;
+    display: block;
+}

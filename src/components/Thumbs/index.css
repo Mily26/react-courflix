@@ -1,0 +1,16 @@
+.fas.fa-thumbs-up::before, .fas.fa-thumbs-down::before {
+    font-size: 2em;
+    cursor: pointer;
+  }
+  
+  .fas.fa-thumbs-up, .fas.fa-thumbs-down {
+    margin-left: 1em;
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    border-radius: 100%;
+    padding: 0.5em;
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .active::before {
+    color: white;
+  }

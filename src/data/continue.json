@@ -1,0 +1,271 @@
+{
+    "series": [
+        {
+            "title": "Vikings",
+            "imgCarousel": "./images/serie9.png",
+            "imgPortada": "../../images/vikingsportada.jpg",
+            "description": "Ragnar y sus hombres luchan contra el ejército del rey sajón Aelle, y la traición en ambos bandos amenaza con arruinar los intentos de lograr un acuerdo de paz.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle1": "Ver la temporada 1",
+            "progress": 20,
+            "seasons": [
+                {
+                    "name":"Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Ritos de iniciación",
+                            "description": "Ragnar Lothbrok está decidido a navegar hacia el oeste para descubrir nuevas tierras y riquezas a pesar de una intimidante advertencia del conde Haraldson.",
+                            "imgChapter": "../../images/chapters/vikings.jpg"
+                        },
+                        {
+                            "title": "La furia de los hombres del norte",
+                            "description": "Ragnar y su tripulación se preparan para su primer viaje rumbo al oeste, y el furioso conde Haraldson jura vengarse por tal acto de rebeldía.",
+                            "imgChapter": "../../images/chapters/vikings.jpg"
+                        },
+                        {
+                            "title": "Desposeídos",
+                            "description": "El primer atraco a Inglaterra a manos de los vikingos es todo un éxito, y Ragnar elige una recompensa inusual, mientras Haraldson confabula estrategias para imponerse.",
+                            "imgChapter": "../../images/chapters/vikings.jpg"
+                        },
+                        {
+                            "title": "Juicio",
+                            "description": "Acompañado por Lagertha, Ragnar saquea el pueblo inglés Hexam y, a su regreso, debe enfrentarse a Haraldson y darle explicaciones sobre una muerte inesperada.",
+                            "imgChapter": "../../images/chapters/vikings.jpg"
+                        },
+                        {
+                            "title": "Asalto",
+                            "description": "La paranoia de Haraldson lo lleva a atacar a Ragnar, y después de salvarse por muy poco, Ragnar debe elegir entre una vida en el exilio o una batalla hasta la muerte.",
+                            "imgChapter": "../../images/chapters/vikings.jpg"
+                        },
+                        {
+                            "title": "El entierro de los muertos",
+                            "description": "Aunque aún está débil, a Ragnar no le es indiferente la tortura sufrida por su hermano, así que desafía a Haraldson a un duelo a muerte.",
+                            "imgChapter": "../../images/chapters/vikings.jpg"
+                        },
+                        {
+                            "title": "El rescate de un rey",
+                            "description": "Ragnar y sus hombres luchan contra el ejército del rey sajón Aelle, y la traición en ambos bandos amenaza con arruinar los intentos de lograr un acuerdo de paz.",
+                            "imgChapter": "../../images/chapters/vikings.jpg"
+                        },
+                        {
+                            "title": "Sacrificio",
+                            "description": "Durante una tradicional peregrinación para agradecer a los dioses, Ragnar, Lagertha y Athelstan se ven envueltos en luchas de lealtades internas y entre ellos.",
+                            "imgChapter": "../../images/chapters/vikings.jpg"
+                        },
+                        {
+                            "title": "Todos cambian",
+                            "description": "Mientras Ragnar emprende una misión diplomática para el rey, Rollo cambia de bando, y Lagertha combate una arrasadora epidemia mortal en el pueblo.",
+                            "imgChapter": "../../images/chapters/vikings.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Dark",
+            "imgCarousel": "./images/serie10.png",
+            "imgPortada": "../../images/darkportada.jpg",
+            "description": "La desaparición de dos niños muestra los vínculos entre cuatro familias y expone el pasado de una pequeña ciudad.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle1": "Ver la temporada 1",
+            "progress": 45,
+            "seasons": [
+                {
+                    "name": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Secretos",
+                            "description": "2019. La desaparición de un niño local aterroriza a los habitantes de Winden, un pueblito alemán con una historia tan trágica como extraña.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        },
+                        {
+                            "title": "Mentiras",
+                            "description": "La policía queda desconcertada tras un descubrimiento macabro, y Ulrich busca una orden de allanamiento para la planta de energía. Un extraño se registra en el hotel.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        },
+                        {
+                            "title": "Pasado y presente",
+                            "description": "1986. Mads, el hermano de Ulrich, está desaparecido desde hace un mes. La confusión se apodera de la situación cuando el pasado y el presente se entrecruzan.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        },
+                        {
+                            "title": "Dobles vidas",
+                            "description": "Charlotte siente un déjà vu tras una serie de sucesos inquietantes y sospecha que Peter oculta algo. Franziska se quiebra cuando Magnus la confronta.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        },
+                        {
+                            "title": "Verdades",
+                            "description": "Hannah lleva demasiado lejos su obsesión con Ulrich. El extraño le pide a Regina que entregue un paquete importante. Jonas y Bartosz ponen a Martha en un dilema.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        },
+                        {
+                            "title": "Sic mundus creatus est",
+                            "description": "Ulrich busca respuestas en el pasado y desentierra secretos familiares. Jonas usa sus nuevas herramientas para abrirse camino en la oscuridad de la cueva.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        },
+                        {
+                            "title": "Encrucijadas",
+                            "description": "En el asilo, Ulrich interroga a Helge, que está frágil y asustado. Jonas busca a Mikkel, pero el extraño le advierte que no se meta con el pasado.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        },
+                        {
+                            "title": "Cosechas lo que siembras",
+                            "description": "1953. En una obra en construcción, se exhuman los restos desfigurados de dos niños. Se trata del mismo lugar donde estará la planta nuclear de Winden.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        },
+                        {
+                            "title": "Todo es ahora",
+                            "description": "Ulrich se desvía del camino de la ley, Helge intenta esquivar a Egon Tiedemann, Claudia usa los poderes de la cueva, y Katharina se desquita con Hannah.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        },
+                        {
+                            "title": "Alfa y omega",
+                            "description": "Peter queda conmocionado. Jonas descubre la verdad acerca de su familia, pero todavía quedan sorpresas. Helge hace un sacrificio.",
+                            "imgChapter": "../../images/chapters/dark.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        
+        {
+            "title": "La orden secreta",
+            "longTitle": true,
+            "imgCarousel": "./images/serie11.png",
+            "imgPortada": "../../images/orderportada.jpg",
+            "description": "Para vengar la muerte de su madre, un estudiante universitario se une a una orden secreta y se vé envuelto en una guerra entre hombres lobo y practicantes de magia oscura.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle1": "Ver la temporada 1",
+            "progress": 60,
+            "seasons": [
+                {
+                    "name": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Semana infernal (Primera parte)",
+                            "description": "En la Universidad Belgrave, Jack promete lealtad a una sociedad secreta inmersa en magia y misterio. Pronto, una serie de extraños asesinatos azotará el campus.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        },
+                        {
+                            "title": "Semana infernal (Segunda parte)",
+                            "description": "El abuelo comparte su teoría sobre los ataques, mientras Jack y Alyssa intentan vigilar a las otras promesas. Luego, Jack se topa con una figura de gran notoriedad.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        },
+                        {
+                            "title": "Introducción a la Ética (Primera parte)",
+                            "description": "Jack se entera de que ha sido seleccionado para una sociedad secreta rival y, más tarde, aprende una importante lección sobre magia: todos los conjuros tienen su precio.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        },
+                        {
+                            "title": "Introducción a la Ética (Segunda parte)",
+                            "description": "Jack propone una alianza con los Caballeros, y Randall le enseña cómo perfeccionar sus poderes. Entre tanto, Edward le ofrece protección a Alyssa.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        },
+                        {
+                            "title": "De vuelta a casa (Primera parte)",
+                            "description": "La Orden Secreta se prepara para realizar un peligroso y siniestro conjuro; mientras, los Caballeros —con Jack al mando— planean sabotear sus planes.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        },
+                        {
+                            "title": "De vuelta a casa (Segunda parte)",
+                            "description": "La Orden Secreta va tras los hombres lobo del campus, y Jack y Alyssa se escapan con el necrófono de Renée, una herramienta para comunicarse con los muertos.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        },
+                        {
+                            "title": "Sin declarar (Primera parte)",
+                            "description": "Tras haberse enterado del secreto de Jack, Alyssa y el hombre lobo tienen una fuerte discusión. Vera cuestiona las intenciones de Edward con el Vade Maecum.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        },
+                        {
+                            "title": "Sin declarar (Segunda parte)",
+                            "description": "Alyssa ayuda a los Caballeros a buscar a Randall y termina encontrando un retorcido experimento del doctor. Edward recibe una visita del anterior dueño del Vade Maecum.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        },
+                        {
+                            "title": "Finales (Primera parte)",
+                            "description": "Ciego de ambición, Edward confronta a Vera, y Alyssa queda en el medio del conflicto. Haber tocado el Vade Maecum desencadena un terrible tormento para Jack.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        },
+                        {
+                            "title": "Finales (Segunda parte)",
+                            "description": "Los Caballeros secuestran al hijo de Edward con el objetivo de frustrar su plan. Gabrielle y la consejera de la Orden Hermética interrogan a Lilith.",
+                            "imgChapter": "../../images/chapters/ordensecreta.jpg"
+                        }
+                    ]
+                }
+            ]
+                     
+                       
+        },
+            
+        {
+            "title": "The end of the f***ing world",
+            "longTitle": true,
+            "imgCarousel": "./images/serie12.png",
+            "imgPortada": "../../images/endportada.jpg",
+            "description": "James, un joven psicópata, y Alyssa, una adolescente rebelde, se embarcan en un viaje por carretera en busca del padre de ella.Sin embargo, la aventura no ha hecho más que empezar.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle1": "Ver la temporada 1",
+            "progress": 85,
+            "seasons": [
+                {
+                    "name": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "description": "Matar animales ya no lo motiva. Con diecisiete añitos, James ahora planea su primer asesinato real, pero justo aparece Alyssa para desconcentrarlo.",
+                            "imgChapter": "../../images/chapters/end.jpg"
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "description": "En el camino, James y Alyssa no tardan en darse cuenta de que la situación los supera, pero ninguno quiere admitirlo. Un amistoso veterano del ejército ofrece su ayuda.",
+                            "imgChapter": "../../images/chapters/end.jpg"
+                        },
+                        {
+                            "title": "Episodio 3",
+                            "description": "Con el objetivo de no llamar la atención, el dúo invade una casa llena de lujos y comodidades, que esconde un secreto inquietante...",
+                            "imgChapter": "../../images/chapters/end.jpg"
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "description": "Luego de una noche agitada, Alyssa y James cambian de apariencia para cubrir sus huellas, y ella lo empieza a ver con otros ojos.",
+                            "imgChapter": "../../images/chapters/end.jpg"
+                        },
+                        {
+                            "title": "Episodio 5",
+                            "description": "Un recuerdo doloroso de la infancia hace que James cambie de planes. Corta de plata, Alyssa recurre al robo de tiendas.",
+                            "imgChapter": "../../images/chapters/end.jpg"
+                        },
+                        {
+                            "title": "Episodio 6",
+                            "description": "James demuestra que tiene muchos talentos ocultos, Alyssa salda cuentas con la dueña de una gasolinera, y Eunice hace un descubrimiento alarmante.",
+                            "imgChapter": "../../images/chapters/end.jpg"
+                        },
+                        {
+                            "title": "Episodio 7",
+                            "description": "Alyssa reconecta con su padre, mientras que James, preocupado, enfrenta un dilema. Eunice y Teri no se ponen de acuerdo en la manera de hablar con adolescentes.",
+                            "imgChapter": "../../images/chapters/end.jpg"
+                        },
+                        {
+                            "title": "Episodio 8",
+                            "description": "Eunice se rebela, Leslie se muestra tal y como es, y Alyssa y James planean un escape contra reloj.",
+                            "imgChapter": "../../images/chapters/end.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

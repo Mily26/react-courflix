@@ -1,0 +1,7 @@
+@media screen and (max-width: 767px) {
+    .series-wrapper .series-title {
+        font-size: 1.5em;
+        margin-top: 22px;
+        margin-bottom: 1.8em;
+    }
+}

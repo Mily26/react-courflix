@@ -1,0 +1,271 @@
+{
+    "series": [
+        {
+            "title": "Arrow",
+            "imgCarousel": "./images/serie13.png",
+            "imgPortada": "../../images/arrowportada.jpg",
+            "description": "Un billonario mujeriego que se presumía había fallecido, regresa a casa luego de cinco años de quedar atrapado en una isla remota, él esconde los cambios creados por la experiencia, llevando una vida secreta en la noche, corrigiendo actos erróneos.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle1": "Ver la temporada 1",
+            "seasons": [
+                {
+                    "name":"Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Piloto",
+                            "description": "Supuestamente muerto por cinco años antes de que lo descubrieran en una isla del Pacífico, el multimillonario playboy Oliver Queen vuelve a casa como un hombre distinto.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        },
+                        {
+                            "title": "Honra a tu padre",
+                            "description": "Oliver pone su mira en derrotar a un criminal relacionado con la tríada china: Martin Somers, a quien Laurel está demandando.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        },
+                        {
+                            "title": "Pistoleros solitarios",
+                            "description": "Cuando un pistolero mata a uno de los objetivos de Oliver, él solicita la ayuda de la detective Lance. Laurel y Tommy se encuentran atrapados en una situación extraña.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        },
+                        {
+                            "title": "Un hombre inocente",
+                            "description": "Mientras revisa un caso de asesinato, Oliver se da cuenta de que uno de los objetivos de su lista ha incriminado a un hombre inocente del crimen.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        },
+                        {
+                            "title": "Mercancía estropeada",
+                            "description": "Cuando arrestan a Oliver por asesinato, insiste en que Laurel sea su abogada ante el tribunal. Ella toma el caso, lo que crea tensión con su padre.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        },
+                        {
+                            "title": "Legado",
+                            "description": "Una banda de ladrones de bancos hiere seriamente a un oficial de policía fuera de servicio durante un atraco, obligando a Oliver a repensar su misión.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        },
+                        {
+                            "title": "Musa de fuego",
+                            "description": "Llega la Cazadora a Ciudad Starling y hechiza a Oliver; sucesos adversos toman por sorpresa a Tommy, quien recurre a Laurel para que lo apoye.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        },
+                        {
+                            "title": "Vendetta",
+                            "description": "Oliver entrena a Helena para que sea su aliada. Más tarde, su sed de venganza la lleva a matar al líder de la triada.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        },
+                        {
+                            "title": "Fin de año",
+                            "description": "Decidido a recuperar el tiempo perdido y un sentido de normalidad para el hogar de los Queen, Oliver hace una fiesta familiar de Navidad.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        },
+                        {
+                            "title": "Quemado",
+                            "description": "El Arquero Oscuro derrota a Oliver, que pierde confianza y deja la vigilancia por un tiempo, hasta que Laurel necesita ayuda para investigar la muerte de un bombero.",
+                            "imgChapter": "../../images/chapters/arrow.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "The Flash",
+            "imgCarousel": "./images/serie14.png",
+            "imgPortada": "../../images/flashportada.jpg",
+            "description": "Nueve meses después de que el laboratorio S.T.A.R. explotara, Barry despierta del coma y descubre que tiene el poder de la súper velocidad. Con la ayuda de su nuevo equipo, Barry, denominado ahora `Flash', luchará contra el crimen en Ciudad Central.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle1": "Ver la temporada 1",
+            "seasons": [
+                {
+                    "name":"Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Piloto",
+                            "description": "Al despertar de un coma, Barry enfoca su extraordinaria velocidad para combatir al metahumano que utiliza sus poderes de manipulación de la atmósfera para robar bancos.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        },
+                        {
+                            "title": "El hombre más veloz que existe",
+                            "description": "Barry se enfrenta a los atacantes de la ceremonia de premiación donde está con Iris y los efectos secundarios de su superpoder se manifiestan.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        },
+                        {
+                            "title": "Cosas de las que no escapas",
+                            "description": "Flash y Joe buscan al metahumano cuya especialidad son los gases tóxicos, y Caitlin revive la noche de la explosión que mató a su prometido.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        },
+                        {
+                            "title": "Renegados",
+                            "description": "Para robar un diamante, el Capitán Frío obtiene un arma que puede ejecutar a Flash. Joe no está de acuerdo con las citas románticas de Eddie e Iris.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        },
+                        {
+                            "title": "Plástico",
+                            "description": "Mientras persuade a Iris para que deje de escribir sobre Flash, Barry investiga la conexión entre un militar y el metahumano con poderes explosivos.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        },
+                        {
+                            "title": "Nace el Flash",
+                            "description": "Barry se enfrenta a quien le hizo la vida imposible de chico, que puede transformarse en hombre de acero. En su blog, Iris finalmente inventa el apodo Flash.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        },
+                        {
+                            "title": "El apagón",
+                            "description": "Gracias a sus poderes de metahumano, Blackout le roba a Barry su velocidad, y luego cambia de objetivo: los laboratorios S.T.A.R y el Dr. Wells.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        },
+                        {
+                            "title": "Flash contra flecha",
+                            "description": "Flecha ayuda a Flash en la investigación de un búmeran letal, pero un metahumano que puede controlar las emociones pondrá a Flash en su contra.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        },
+                        {
+                            "title": "El hombre del traje amarillo",
+                            "description": "Por fin Flash puede enfrentarse al hombre que mató a su madre. Caitlin recibe sorprendentes noticias sobre su prometido.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        },
+                        {
+                            "title": "Venganza de los Rogues",
+                            "description": "Mientras flash se prepara para un gran desafío, dos villanos se unen para secuentrar a Caitlin, y Flash podría terminar mal.",
+                            "imgChapter": "../../images/chapters/flash.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Seven Deadle Sins",
+            "longTitle": true,
+            "imgCarousel": "./images/serie15.png",
+            "imgPortada": "../../images/sevenportada.jpg",
+            "description": "Un grupo de tiranos tomó el trono.Ahora la princesa dberá buscar a un grupo de caballeros que la ayude a recuperar el reino.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle1": "Ver la temporada 1",
+            "seasons": [
+                {
+                    "name": "Los siete pecados capitales",
+                    "episodes": [
+                        {
+                            "title": "Los siete pecados capitales",
+                            "description": "Una princesa encuentra a un excaballero y se une en la búsqueda de un grupo de caballeros para derrocar a los tiranos y reconstruir el reino.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "La espada del caballero sagrado",
+                            "description": "Cuando Gilthunder clava su espada en el centro de la aldea y bloquea la produccion de cerveza, solo Meliodas podrá sacarla y convertirse en el gran salvador.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "El pecado en el bosque dormido",
+                            "description": "Meliodas, Hawk y Elizabeth se embarcarán en un viaje aventurero, en el que Meliodas querrá encontrar información sin importar las consecuencias.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "El sueño de una pequeña",
+                            "description": "Diane se une a la misión para liberar a Ban, pero el grupo recibe el ataque de un enemigo que pondrá en peligro a todos.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "Aunque tengas que morir",
+                            "description": "Golgius intenta apoderarse de la espada de Elizabeth y Meliodas; el sonido de una misteriosa campana lleva a todo el equipo a pelear entre sí.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "La canción del origen",
+                            "description": "Elizabeth y Meliodas deben pelear contra los Caballeros Sagrados Friesia y Ruin para seguir el viaje. Mientras tanto, se avecina un desastre.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "Un reencuentro conmovedor",
+                            "description": "Ban Meliodas y compañía finalmente se reúnen y se dirigen hacia la Capital de los muertos, donde buscarán pistas para hallar el Pecado de la Pereza de Grizzly.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "La cazadora aterradora",
+                            "description": "King y Ban tienen un enfrentamiento final; Guila lucha contra Meliodas, Diane y Elizabeth; Ban recuerda a Elaine y la Fuente de la juventud.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "Un pulso oscuro",
+                            "description": "Elaine finalmente convence a King de rescatar a Meliodas y los demás. De regreso en la capital, aparecen signos de descontento entre los Caballeros Sagrados.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "El festival de la pelea de Vaizel",
+                            "description": "Al descubrir cuál es el premio mayor del festival,Gideon,Meliodas,Ban y King deciden participar, al igual que los Caballeros Sagrados Howser y Griamore.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        }
+                    ]
+                }
+            ]
+        
+        },
+        {
+            "title": "Lucifer",
+            "imgCarousel": "./images/serie16.png",
+            "imgPortada": "../../images/luciferportada.jpg",
+            "description": "Aburrido de ser amo del infierno, el diablo se muda a Los Ángeles donde abre un club nocturno y se relaciona con una detective de homicidios.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle1":"Ver la temporada 1",
+            "seasons": [
+                {
+                    "name": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Piloto",
+                            "description": "Una vieja conocida se encuentra con su destino violento. Lucifer jura vengarse y hace una alianza inesperada."
+                        },
+                        {
+                            "title": "Quieto Lucifer.Buen diablo.",
+                            "description": "Lucifer saca tiempo para investigar cómo un paparazzi se relaciona con la muerte de un joven, a pesar de sentir muy cerca las llamas de su regreso al infierno."
+                        },
+                        {
+                            "title": "El presunto Príncipe de las Tinieblas",
+                            "description": "Un mariscal de campo profesional y en camino al estrellato descubre algo espantoso y le pide a Lucifer que le ayude a probar su inocencia."
+                        },
+                        {
+                            "title": "Cosas de hombres",
+                            "description": "Lucifer intenta seducir a Chloe, pero ella no es como las demás.Amenadiel le comparte a Maze sus temores sobre Lucifer."
+                        },
+                        {
+                            "title": "Lindos zapatos",
+                            "description": "Lucifer le da una mirada a la otra cara de la moda.Amenadiel obtiene nueva información y gesta un plan para enviar a Lucifer a casa."
+                        },
+                        {
+                            "title": "Hijo favorito",
+                            "description": "Una importante posesión desaparece y Lucifer busca culpable.La doctora Linda toma una terrible decisión."
+                        },
+                        {
+                            "title": "Compañero alado",
+                            "description": "Lucifer busca su tesoro perdido y recibe una ayuda inesperada.Chloe le pide a Dan ayuda con el caso Palmetto."
+                        },
+                        {
+                            "title": "¿Et tu, doctor?",
+                            "description": "Lucifer celebra su renacimiento y hace equipo con Chloe y la doctora Linda para investigar el asesinato de un polémico terapeuta."
+                        },
+                        {
+                            "title": "Un padre entra a un bar",
+                            "description": "Un cura que sospecha que un centro juvenil se convirtió en frente para distribuir drogar le pide ayuda a Lucifer. Amenadiel y Malcom tienen una charla sincera."
+                        },
+                        {
+                            "title": "Papi",
+                            "description": "Un famoso chef es víctima de envenenamiento, y Chloe y Lucifer tienen a un sospechoso en la mira. Lucifer descubre que quizá su familia no sea la más demente que conoce."
+                        }
+                    ]
+                }
+            ]
+        } 
+
+        
+        
+    ]
+}

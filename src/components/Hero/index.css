@@ -1,0 +1,130 @@
+.banner {
+    background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.0001) 0%, #000000 100%), url("./portada.png");
+    background-size: cover;
+    padding-bottom: 2em;
+    padding-top: 35px;
+}
+.banner h3 {
+    height: 38px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    text-align: left;
+    margin: 0;
+    padding-top: 4em;
+    margin-left: 55px;
+}
+.banner h1 {
+    width: 2em;
+    height: 176px;
+    margin-left: 50px;
+    margin-top: 20px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 120px;
+    line-height: 100px;
+}
+.banner h4 {
+    height: 1.2em;
+    margin-left: 55px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+}
+.banner p {
+    height: 87px;
+    margin-left: 55px;
+    width: 27em;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 33px;
+}
+.banner .play, .banner .list {
+    background: rgba(157, 151, 151, 0.541521);
+    border: 0;
+    border-radius: 9px;
+    padding: 20px 40px;
+    color: white;
+    font-size: 1.4em;
+    cursor: pointer;
+}
+.banner .play {
+    margin-left: 55px;
+}
+.banner .list {
+    margin-left: 18px;
+}
+.banner .description {
+    width: 23em;
+}
+.coincidence {
+    color: green;
+    font-weight: bold;
+    margin-right: 0.5em;
+}
+.year {
+    margin-right: 0.5em;
+}
+.rating {
+    margin-left: 0.5em;
+    border-radius: 8px;
+    border: 1px solid;
+}
+.season-count {
+    font-weight: bold;
+    margin-left: 0.5em;
+}
+
+
+
+@media screen and (max-width: 767px) {
+    .banner .play {
+        background-color: red;
+        margin-left: 8px;
+    }
+    .banner h1 {
+        font-size: 1.5em;
+        margin-bottom: 0em;
+        height: auto;
+        width: auto;
+        padding-bottom: 0;
+        line-height: normal;
+        margin-left: 8px;
+        margin-top: 3em;
+    }
+    .banner h3 {
+        display: none;
+    }
+    .banner h4 {
+        display: none;
+    }
+    .banner .description {
+        display: none;
+    }
+    .info {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .info p {
+        margin-top: 0em;
+        height: auto;
+        display: block;
+        font-size: 1em;
+        margin-left: 8px;
+    }
+    
+    .banner .play, .banner .list {
+        font-size: 1em;
+    }
+    .list {
+        display: none;
+    }
+} 

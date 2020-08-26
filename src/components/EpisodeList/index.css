@@ -1,0 +1,59 @@
+.episode-title {
+    display: flex;
+    margin-left: 2em;
+    margin-bottom: 1em;
+    font-weight: 800;
+    font-size: 1.1em
+}
+.episode-description {
+    margin-left: 2em;
+    margin-bottom: 2em;
+    display: flex;
+    
+}
+.capitulos-title {
+    margin-left: 1.5em;
+    margin-bottom: 1em;
+}
+.capitulos-wrapper {
+    margin-left: 3em;
+}
+.episode-container{
+    display: flex;
+    margin-left: 8px;
+    margin-bottom: 1em;
+    flex-direction: row;
+  }
+  .episode-image {
+      cursor: pointer;
+      height: 120px;
+      position: relative;
+  }
+
+  .episode-image img {
+      height: 100%;
+      
+  }
+  .episode-image i {
+      position: absolute;
+      left: 44%;
+      top: 44%;
+      filter: drop-shadow(0.35rem 0.15rem 1rem rgba(0, 0, 0, 0.5));
+  }
+  .episode-image i::before {
+      font-size: 2em;
+  }
+  
+
+
+  @media screen and (max-width: 767px) {
+      .episode-image img {
+        object-fit: cover;
+        width: 200px;
+        height: auto;
+
+      }
+      .episode-description {
+        margin-right: 1em;
+      }
+  }

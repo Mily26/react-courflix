@@ -1,0 +1,278 @@
+{
+    "series": [
+        {
+            "title": "Seven Deadle Sins",
+            "longTitle": true,
+            "imgCarousel": "./images/serie5.png",
+            "imgPortada": "../../images/sevenportada.jpg",
+            "description": "Un grupo de tiranos tomó el trono.Ahora la princesa dberá buscar a un grupo de caballeros que la ayude a recuperar el reino.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle": "Original de Courflix",
+            "seasons": [
+                {
+                    "name": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Los siete pecados capitales",
+                            "description": "Una princesa encuentra a un excaballero y se une en la búsqueda de un grupo de caballeros para derrocar a los tiranos y reconstruir el reino.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "La espada del caballero sagrado",
+                            "description": "Cuando Gilthunder clava su espada en el centro de la aldea y bloquea la produccion de cerveza, solo Meliodas podrá sacarla y convertirse en el gran salvador.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "El pecado en el bosque dormido",
+                            "description": "Meliodas, Hawk y Elizabeth se embarcarán en un viaje aventurero, en el que Meliodas querrá encontrar información sin importar las consecuencias.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "El sueño de una pequeña",
+                            "description": "Diane se une a la misión para liberar a Ban, pero el grupo recibe el ataque de un enemigo que pondrá en peligro a todos.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "Aunque tengas que morir",
+                            "description": "Golgius intenta apoderarse de la espada de Elizabeth y Meliodas; el sonido de una misteriosa campana lleva a todo el equipo a pelear entre sí.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "La canción del origen",
+                            "description": "Elizabeth y Meliodas deben pelear contra los Caballeros Sagrados Friesia y Ruin para seguir el viaje. Mientras tanto, se avecina un desastre.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "Un reencuentro conmovedor",
+                            "description": "Ban Meliodas y compañía finalmente se reúnen y se dirigen hacia la Capital de los muertos, donde buscarán pistas para hallar el Pecado de la Pereza de Grizzly.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "La cazadora aterradora",
+                            "description": "King y Ban tienen un enfrentamiento final; Guila lucha contra Meliodas, Diane y Elizabeth; Ban recuerda a Elaine y la Fuente de la juventud.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "Un pulso oscuro",
+                            "description": "Elaine finalmente convence a King de rescatar a Meliodas y los demás. De regreso en la capital, aparecen signos de descontento entre los Caballeros Sagrados.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        },
+                        {
+                            "title": "El festival de la pelea de Vaizel",
+                            "description": "Al descubrir cuál es el premio mayor del festival,Gideon,Meliodas,Ban y King deciden participar, al igual que los Caballeros Sagrados Howser y Griamore.",
+                            "imgChapter": "../../images/chapters/sevendeadle.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+       {
+            "title": "Lucifer",
+            "imgCarousel": "./images/serie6.png",
+            "imgPortada": "../../images/luciferportada.jpg",
+            "description": "Aburrido de ser amo del infierno, el diablo se muda a Los Ángeles donde abre un club nocturno y se relaciona con una detective de homicidios.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "seasons": [
+                {
+                    "name": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Piloto",
+                            "description": "Una vieja conocida se encuentra con su destino violento. Lucifer jura vengarse y hace una alianza inesperada.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        },
+                        {
+                            "title": "Quieto Lucifer.Buen diablo.",
+                            "description": "Lucifer saca tiempo para investigar cómo un paparazzi se relaciona con la muerte de un joven, a pesar de sentir muy cerca las llamas de su regreso al infierno.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        },
+                        {
+                            "title": "El presunto Príncipe de las Tinieblas",
+                            "description": "Un mariscal de campo profesional y en camino al estrellato descubre algo espantoso y le pide a Lucifer que le ayude a probar su inocencia.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        },
+                        {
+                            "title": "Cosas de hombres",
+                            "description": "Lucifer intenta seducir a Chloe, pero ella no es como las demás.Amenadiel le comparte a Maze sus temores sobre Lucifer.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        },
+                        {
+                            "title": "Lindos zapatos",
+                            "description": "Lucifer le da una mirada a la otra cara de la moda.Amenadiel obtiene nueva información y gesta un plan para enviar a Lucifer a casa.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        },
+                        {
+                            "title": "Hijo favorito",
+                            "description": "Una importante posesión desaparece y Lucifer busca culpable.La doctora Linda toma una terrible decisión.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        },
+                        {
+                            "title": "Compañero alado",
+                            "description": "Lucifer busca su tesoro perdido y recibe una ayuda inesperada.Chloe le pide a Dan ayuda con el caso Palmetto.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        },
+                        {
+                            "title": "¿Et tu, doctor?",
+                            "description": "Lucifer celebra su renacimiento y hace equipo con Chloe y la doctora Linda para investigar el asesinato de un polémico terapeuta.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        },
+                        {
+                            "title": "Un padre entra a un bar",
+                            "description": "Un cura que sospecha que un centro juvenil se convirtió en frente para distribuir drogar le pide ayuda a Lucifer. Amenadiel y Malcom tienen una charla sincera.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        },
+                        {
+                            "title": "Papi",
+                            "description": "Un famoso chef es víctima de envenenamiento, y Chloe y Lucifer tienen a un sospechoso en la mira. Lucifer descubre que quizá su familia no sea la más demente que conoce.",
+                            "imgChapter": "../../images/chapters/lucifer.jpg"
+                        }
+                    ]
+                }
+            ]
+        }, 
+        {
+            "title": "The Protector",
+            "imgCarousel": "./images/serie7.png",
+            "imgPortada": "../../images/protectorportada.jpg",
+            "description": "Un joven habitante de la moderna Estambul descubre sus lazos con una antigua orden secreta y se dispone a salvar a su ciudad de un enemigo inmortal.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle": "Original de Courflix",
+            "seasons": [
+                {
+                    "name": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "Episodio 1",
+                            "description": "Hakan busca desesperadamente una oportunidad para iniciar un nuevo negocio, hasta que se topa con una camisa que podría valer muchísimo dinero.",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        },
+                        {
+                            "title": "Episodio 2",
+                            "description": "A Hakan le cuesta creerse la historia del Protector. Aunque le pidieron que se quedara quieto para que el inmortal no lo encontrara, decide salir a buscar a Memo.",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        },
+                        {
+                            "title": "Episodio 3",
+                            "description": "Hakan y Zeynep llegan al lugar donde deben encontrarse con la Fiel que protege el anillo y terminan en una casa decrépita en medio de la nada. ",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        },
+                        {
+                            "title": "Episodio 4",
+                            "description": "El nuevo trabajo de Hakan empieza con la celebración del triunfo de Faysal Erdem en el proyecto de Santa Sofía.Zeynep sigue pistas para encontrar la piedra.",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        },
+                        {
+                            "title": "Episodio 5",
+                            "description": "Hakan viaja a las islas Príncipe para saber más sobre su pasado, Zeynep y Kemal se dirigen al mausoleo de Mimar Sinan a buscar la piedra.",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        },
+                        {
+                            "title": "Episodio 6",
+                            "description": "A Hakan le cuesta elegir entre su nuevo amor y su deber como el Protector.Tras enviar a Emir de vuelta a casa, Kemal sale en busca de la daga.",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        },
+                        {
+                            "title": "Episodio 7",
+                            "description": "Sin tiempo para idear la manera de eludir el sistema de seguridad del museo,Zeynep pone en riego el plan Hakan.",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        },
+                        {
+                            "title": "Episodio 8",
+                            "description": "Zeynep le pide a Timur que ayude a su padre.Faysal Erdem desaprueba los actos de Mazhar. A Leyla la incomoda su relación con Hakan.",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        },
+                        {
+                            "title": "Episodio 9",
+                            "description": "Hakan nota algo inesperado al alejarse de la escena del crimen.Kemal se arriesga en grande para obtener más información sobre el inmortal.",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        },
+                        {
+                            "title": "Episodio 10",
+                            "description": "Ciego de amor, Hakan descuida el entrenamiento y sus deberes como el Protector. Leyla le revela que la sangre de un Inmortal contiene un poder secreto.",
+                            "imgChapter": "../../images/chapters/protector.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Love Death Robots",
+            "longTitle": true,
+            "imgCarousel": "./images/serie8.png",
+            "imgPortada": "../../images/robotsportada.jpg",
+            "description": "Seres terroríficos, sorpresas retorcidas y humor negro convergen en esta antología de relatos animados para adultos presentada por Tim Miller y David Fincher.",
+            "info": "95% de coincidencia - 2019 - 16+ - 1 Temporada",
+            "temporada1": {
+
+            },
+            "subtitle": "Original de Courflix",
+            "seasons": [
+                {
+                    "name": "Temporada 1",
+                    "episodes": [
+                        {
+                            "title": "La ventaja de Sonnie",
+                            "description": "En el submundo de las luchas entre bestias, Sonnie es imbatible. Solo debe asegurarse de no perder su ventaja.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        },
+                        {
+                            "title": "Los tres robots",
+                            "description":"La humanidad llegó a su fin, y una ciudad posapocalíptica es el destino turístico de tres curiosos robots.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        },
+                        {
+                            "title": "Testigo",
+                            "description": "Tras presenciar un homicidio brutal, una mujer debe escapar del asesino por las calles de una ciudad surrealista.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        },
+                        {
+                            "title": "Trajes",
+                            "description": "Una comunidad de granjeros deberá defenderse de una invasión alienígena con sus robots caseros.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        },
+                        {
+                            "title": "Vendrá por tu alma",
+                            "description": "Una excavación arqueológica libera un demonio ávido de sangre que deberá enfrentar mercenarios armados con gatos.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        },
+                        {
+                            "title": "El yogur que conquistó el mundo",
+                            "description": "Por error, científicos cultivan un yogur superinteligente que lo único que quiere es dominar el mundo.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        },
+                        {
+                            "title": "Más allá de la grieta",
+                            "description": "Luego de viajar años luz fuera de su curso, la tripulación de una nave deberá descifrar hasta donde ha llegado.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        },
+                        {
+                            "title": "Buena cacería",
+                            "description": "El hijo de un cazador de espíritus entabla una amistad con una criatura mitológica atrapada en una forma humana.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        },
+                        {
+                            "title": "El vertedero",
+                            "description": "Para el Feo Dave, el vertedero es un hogar y no dejará que nada ni nadie lo saque de allí.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        },
+                        {
+                            "title": "Mutantes",
+                            "description": "En Afganistan, dos marines con poderes sobrenaturales enfrentan una amenaza que les resultará muy familiar.",
+                            "imgChapter": "../../images/chapters/robots.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+}
